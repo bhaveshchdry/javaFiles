@@ -5,7 +5,7 @@ public class Student {
     private char gender;
 
     public int getAge() {         //for getting the age
-        //we can implement a validation process here i.e, if the person is valid then only it'll return the value
+        //we can implement a validation process here i.e, if the person is valid then only it'll return the value.
         return age;
     }
 
