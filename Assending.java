@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Assending {
     public static void main(String[] args) {
       int a1,a2,a3;
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);    // for taking input
         System.out.println("Enter three numbers: ");
         a1= sc.nextInt();
         a2= sc.nextInt();
