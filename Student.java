@@ -1,4 +1,4 @@
-//this is the example of secured code i.e, how we make data private and then how can we access them through a validation process
+//this is the example of secured code i.e, how we make data private and then how can we access them through a validation process.
 
 public class Student {
     private int age;
